@@ -1,4 +1,4 @@
-package chapter2.entry2;
+package chapter2.item2;
 /**
  * 示例类
  * @date 2019年1月24日 下午2:24:13
